@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('img/backgroun.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+/*============================ header area============================== */
+nav img{
+    width:5%;
+}
+.header-section{
+    background-color: #ff9999;
+    width: 100%;
+}
+.text-white{
+    font-weight: bolder;
+}
+.col-md-6 img{
+    width:400px;
+}
+p{
+    color: rgb(205, 205, 205);
+    letter-spacing: 1px;
+}
+
+.nav-item .btn a{
+    text-decoration: none;
+}
+
